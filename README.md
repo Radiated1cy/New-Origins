@@ -1,2 +1,2 @@
 # Northern-Regions
-The Modpack
+The Modpack that aims to turn Minecraft into a RPG.
