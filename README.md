@@ -5,8 +5,6 @@ New Origins is a modpack that aims to turn Minecraft into an extremely experimen
 
 You can use **keyboard** and **mouse** or **controller**. I recommend you set up the _roll_ and _crawl_ keybinds on your controller. I find the experience to be better when using the shaders in the modpack however I have them off by **default** as I know some people don't like shaders. This modpack is best experienced in **multiplayer**, however singleplayer definitely still works.
 
-[Modrinth Page](https://modrinth.com/modpack/new-origins)
-
 ## WARNING!
 **CHAT MESSAGES WON'T BE SIGNED IF YOU WISH TO HAVE THEM SIGNED, REMOVE NO CHAT REPORTS! WE DO NOT SUPPORT APPLE DEVICES USE AT YOUR OWN RISK!** 
 
@@ -262,5 +260,10 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Simply Skills](https://modrinth.com/mod/simply-skills 'Title')
 - [Underground Jungle](https://modrinth.com/mod/underground-jungle 'Title')
 - [Phantom](https://modrinth.com/mod/phantom-loader 'Title')
+- [CraftPresence](https://modrinth.com/mod/craftpresence 'Title')
+- [Gravity Changer](https://modrinth.com/mod/gravity-api-fork 'Title')
+- [Amethyst Gravity](https://modrinth.com/mod/amethyst-gravity-reattracted 'Title')
+- [CTOV Wizards Compat](https://modrinth.com/datapack/ctov-wizards-compat 'Title')
+- [CTOV Paladins & Priests](https://modrinth.com/datapack/ctov-paladins-n-priests-compat 'Title')
 - [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
