@@ -115,18 +115,22 @@ Tweaked settings
 
 Rebranded because northern reigons was a bad name
 
-Northern Regions 0.3.3 Small Update Updated minimap and worldmap mod
+# Northern Regions 0.3.3 Small 
+Update Updated minimap and worldmap mod
 
-Northern Regions 0.3.2 Removed Create Sodium Fix (The mod caused
+# Northern Regions 0.3.2 
+Removed Create Sodium Fix (The mod caused
 rendering issues with other mods so Create will be removed from the
 modpack until Create Fabric is fixed.)
 
-Northern Regions 0.3.1 Create Update Added Create Fabric Sodium fix
+# Northern Regions 0.3.1 Create Update 
+Added Create Fabric Sodium fix
 until Create Fabric fixes the issue Added Immersive Aircrafts
 
-Northern Regions 0.3.1 Forgot something :c Added Fabric Seasons Compat
+# Northern Regions 0.3.1 Forgot something :c 
+Added Fabric Seasons Compat
 
-Northern Regions 0.3.0 Big update
+# Northern Regions 0.3.0 Big update
 
 Added SuperSteeds
 
@@ -140,9 +144,10 @@ Updated Several Mods
 
 Other small changes
 
-Northern Regions 0.2.4 Changes Added NiftyCarts
+# Northern Regions 0.2.4 
+Changes Added NiftyCarts
 
-Northern Regions 0.2.2 by IcyVolcano This is a reupload
+# Northern Regions 0.2.2 This is a reupload
 
 Updated several mods.
 
@@ -150,20 +155,20 @@ Added Archers, Paladins, Jewelry, Projectile Damage.
 
 Tweaked settings.
 
-Northern Regions 0.2.1 Changelog:
+# Northern Regions 0.2.1 Changelog:
 
 Updated Iceberg
 
 Added Controlify
 
-Northern Regions 0.2.0 Kinda big update:
+# Northern Regions 0.2.0 Kinda big update:
 
 Added Labels, Snowy Spirit, Easy Anvils, Seamless Loading Screen,
 Dungeons and Taverns, Guard Villagers.
 
 Changed main menu.
 
-Northern Regions 0.1.2 Changelog:
+# Northern Regions 0.1.2 Changelog:
 
 Updated Xaeros World Map, Xaeros MiniMap, Wizards, Iris, Patchouli, Chat
 heads, BetteF3, Betterstats, Elytratrims, Deeperdarker,
@@ -174,7 +179,7 @@ Chat, Ultris, Geckolib
 
 Added Custom Soundtrack
 
-Northern Regions 0.1.1 First update to fix performance and stuff
+# Northern Regions 0.1.1 First update to fix performance and stuff
 
 Removed Music Control
 
@@ -188,4 +193,4 @@ Added main menu text
 
 Added Infinite Music
 
-Northern Regions 0.1.0 First Release (Reuploaded)
+# Northern Regions 0.1.0 First Release (Reuploaded)
