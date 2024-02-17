@@ -1,89 +1,83 @@
-# Skill Tree Update Ver. 1.3.3 
+# Skill Tree Update Ver. 1.3.3
+## Added
+- _Added new skill trees and paths to choose_
 
-Features 
-Added new skill trees and paths to choose 
+## Removed
+- _The Clutter version of coins have been removed_
 
-Removed 
-The Clutter version of coins have been removed
+# Structure Update Ver. 1.3.2
+## Added
+- _Added New structures_
+- _Added Slot for torches and lanterns_
+- _New turtorial for using voice chat_
 
-# Structure Update Ver. 1.3.2 
+## Updates
+- _Updated guardvillagers_
+- _Updated Simple Voice Chat_
 
-Features 
-Added New structures Added Slot fortorches and lanterns 
-New turtorial for using voice chat 
+# Fixes Update Ver. 1.3.1
+## Updates
+- _Updated Sodium, Iris, Indium, Quad, Supplementaries_
 
-Updates 
-Updated guardvillagers 
-Updated Simple Voice Chat
+## Fixes
+- _Fixed rendering issues with modded blocks on servers_
+- _Fixed crash caused by fabric seasons_
 
-# Fixes Update Ver. 1.3.1 
-Updates 
-Updated Sodium, Iris, Indium, Quad, Supplementaries 
+# Decoration Update Ver. 1.3.0 
+## Features
+- _Added new doors_
+- _Added new roof blocks_
+- _Added new paths_
+- _Added new window blocks_
+- _Added new bridges_
+- _Added new armor,weapons, and shields._
 
-Fixes 
-Fixed rendering issues with modded blocks on servers 
-Fixed crash caused by fabric seasons
+## Fixes
+- _Fixed Difficulty to be more scaled toward progression instead of being rushed early game (again)_
 
-# Decoration Update Ver. 1.3.0 (Likely the last update for a while)
+# Quality of Life Update Ver. 1.2.1
+## Features
+- _Added easier to read hud_
+- _Added portable hole_
+- _Added sorting tool_
+- _Added echo chest_
+- _Added new totem effects_
 
-Features 
-Added new doors 
-Added new roof blocks 
-Added new paths 
-Added new window blocks 
-Added new bridges 
-Added new armor,weapons, and shields.
+# Wood Update Ver. 1.2.0
+## Features
+- _Added sawmill_
+- _Added new music tools_
+- _Added new crafting table and chest variants_
+- _Added new perspective tools_
 
-Fixes Fixed Difficulty to be more scaled toward progression instead of
-being rushed early game (again)
+## Fixes
+- _Fixed GL error spam_
 
-# Quality of Life Update Ver. 1.2.1 
+# Boat Update Ver. 1.1.2
+## Updates
+- _Updated Smallships_
+- _Updated several other mods_
 
-Features 
-Added easier to read hud
-Added portable hole 
-Added sorting tool 
-Added echo chest 
-Added new totemeffects
+# Patch Update Ver. 3.1.1
+## Updates
+- _Updated Friends and Foes_
 
-# Wood Update Ver. 1.2.0 (Reupload) 
+## Fixes
+- _Fixed Hotbar_
 
-Features 
-Added sawmill Added new music tools 
-Added new crafting table and chest variants 
-Added new perspective
-tools 
+# Mini Update Ver. 1.1.0
+## Features
+- _Added missing features intended for the 3.0.0 release_
+- _Added new Armor types_
+- _Added new food items_
+- _Added new decoration items_
+- _New Elytra Variants_
 
-Fixes 
-Fixed GL error spam
-
-# Boat Update Ver. 1.1.2 
-
-Updates 
-Updated Smallships 
-Updated several other mods
-
-# Patch Update Ver. 3.1.1 
-
-Updates 
-Updated Friends and Foes 
-
-Fixes Fixed Hotbar
-
-# Mini Update Ver. 1.1.0 
-
-Features
-Added missing features intended for the
-1.0.0 release 
-Added new Armor types 
-Added new food items
-Added new decoration items New Elytra Variants 
-
-Fixes 
-Fixed Sound bug in Inventory
-Fixed Performance issues in the Nether 
-Fixed Difficulty to be more scaled toward progression instead of being rushed early game 
-Fixed Default Config issues
+## Fixes
+- _Fixed Sound bug in Inventory_
+- _Fixed Performance issues in the Nether_
+- _Fixed Difficulty to be more scaled toward progression instead of being rushed early game_
+- _Fixed Default Config issues_
 
 # Version 1.0.0
 
@@ -193,4 +187,4 @@ Added main menu text
 
 Added Infinite Music
 
-# Northern Regions 0.1.0 First Release (Reuploaded)
+# Northern Regions 0.1.0 First Release
