@@ -1,12 +1,12 @@
 # Skill Tree Update Ver. 1.3.3
-## Added
+## Features
 - _Added new skill trees and paths to choose_
 
 ## Removed
 - _The Clutter version of coins have been removed_
 
 # Structure Update Ver. 1.3.2
-## Added
+## Features
 - _Added New structures_
 - _Added Slot for torches and lanterns_
 - _New turtorial for using voice chat_
