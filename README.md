@@ -5,6 +5,8 @@ New Origins is a modpack that aims to turn Minecraft into an extremely experimen
 
 You can use **keyboard** and **mouse** or **controller**. I recommend you set up the _roll_ and _crawl_ keybinds on your controller. I find the experience to be better when using the shaders in the modpack however I have them off by **default** as I know some people don't like shaders. This modpack is best experienced in **multiplayer**, however singleplayer definitely still works.
 
+[Modrinth Page](https://modrinth.com/modpack/new-origins)
+
 ## WARNING!
 **CHAT MESSAGES WON'T BE SIGNED IF YOU WISH TO HAVE THEM SIGNED, REMOVE NO CHAT REPORTS! WE DO NOT SUPPORT APPLE DEVICES USE AT YOUR OWN RISK!** 
 
