@@ -1,4 +1,4 @@
-Skill Tree Update Ver. 1.3.3 
+# Skill Tree Update Ver. 1.3.3 
 
 Features 
 Added new skill trees and paths to choose 
@@ -6,7 +6,7 @@ Added new skill trees and paths to choose
 Removed 
 The Clutter version of coins have been removed
 
-Structure Update Ver. 1.3.2 
+# Structure Update Ver. 1.3.2 
 
 Features 
 Added New structures Added Slot fortorches and lanterns 
@@ -16,7 +16,7 @@ Updates
 Updated guardvillagers 
 Updated Simple Voice Chat
 
-Fixes Update Ver. 1.3.1 
+# Fixes Update Ver. 1.3.1 
 Updates 
 Updated Sodium, Iris, Indium, Quad, Supplementaries 
 
@@ -24,7 +24,7 @@ Fixes
 Fixed rendering issues with modded blocks on servers 
 Fixed crash caused by fabric seasons
 
-Decoration Update Ver. 1.3.0 (Likely the last update for a while)
+# Decoration Update Ver. 1.3.0 (Likely the last update for a while)
 
 Features 
 Added new doors 
@@ -37,7 +37,7 @@ Added new armor,weapons, and shields.
 Fixes Fixed Difficulty to be more scaled toward progression instead of
 being rushed early game (again)
 
-Quality of Life Update Ver. 1.2.1 
+# Quality of Life Update Ver. 1.2.1 
 
 Features 
 Added easier to read hud
@@ -46,7 +46,7 @@ Added sorting tool
 Added echo chest 
 Added new totemeffects
 
-Wood Update Ver. 1.2.0 (Reupload) 
+# Wood Update Ver. 1.2.0 (Reupload) 
 
 Features 
 Added sawmill Added new music tools 
@@ -57,20 +57,20 @@ tools
 Fixes 
 Fixed GL error spam
 
-Boat Update Ver. 1.1.2 
+# Boat Update Ver. 1.1.2 
 
 Updates 
 Updated Smallships 
 Updated several other mods
 
-Patch Update Ver. 3.1.1 
+# Patch Update Ver. 3.1.1 
 
 Updates 
 Updated Friends and Foes 
 
 Fixes Fixed Hotbar
 
-Mini Update Ver. 1.1.0 
+# Mini Update Ver. 1.1.0 
 
 Features
 Added missing features intended for the
@@ -85,7 +85,7 @@ Fixed Performance issues in the Nether
 Fixed Difficulty to be more scaled toward progression instead of being rushed early game 
 Fixed Default Config issues
 
-Version 1.0.0
+# Version 1.0.0
 
 Added new bosses
 
