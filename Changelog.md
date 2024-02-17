@@ -1,3 +1,9 @@
+# It's all about gravity Update Ver. 1.3.4
+## Features
+- _New blocks and items that affect gravity_
+- _New weapons that can be added to planes_
+- _New village buildings_
+
 # Skill Tree Update Ver. 1.3.3
 ## Features
 - _Added new skill trees and paths to choose_
