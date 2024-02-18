@@ -1,3 +1,11 @@
+# Fixes Update 2 Ver. 1.3.5
+Do not update if you have any chests you are using, make sure to break them and put your items somewhere else before you update.
+## Fixes
+- _Fixed smallships incompat with the new chests and crafting tables_
+- _Fixed crash caused by small ships_
+- _Disabled the silver clutter adds_
+- _Disabled the pet bed_
+
 # It's all about gravity Update Ver. 1.3.4
 ## Features
 - _New blocks and items that affect gravity_
