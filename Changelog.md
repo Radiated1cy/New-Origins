@@ -1,3 +1,7 @@
+# Fixes Update 3 Ver. 1.4.1
+## Fixes
+- _Brought back old minimap because the new one didn't support modded biomes_
+  
 # Ocean Depths Update Ver. 1.4.0
 ## Features
 - _Added many new types of fish_
