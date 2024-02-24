@@ -1,3 +1,37 @@
+# Ocean Depths Update Ver. 1.4.0
+## Features
+- _Added many new types of fish_
+- _New creatures now roam oceans_
+- _New ocean structures_
+- _New mirror that teleports you to your spawnpoint_
+- _Added new types of magic_
+- _Added new chests_
+- _Added new pets_
+- _New potion that seperates you from your body_
+- _New moobloom types_
+- _New enchants_
+- _New grappling hook items_
+
+## Changes
+- _Horses can now be called by whistling_
+- _You can now see what menu people are in_
+- _Bees are now more realistic_
+- _Ladders can now be built without needing full support_
+- _You can now place items down_
+- _Replaced current minimap mod with a new one_
+- _New Horse Features_
+
+## Updates
+- _Updated Supplementaries_
+- _Updated Moonlight_
+
+## Removed
+- _Removed clutter_
+
+## Fixes
+- _Fixed recipes not loading on server_
+- _Fixed horses_
+
 # Fixes Update 2 Ver. 1.3.5
 Do not update if you have any chests you are using, make sure to break them and put your items somewhere else before you update.
 ## Fixes
