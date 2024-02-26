@@ -1,3 +1,19 @@
+# Fixes Update 4 Ver. 1.4.3
+## Fixes
+- _Tweaked Settings_
+
+# Spiders! Update Ver. 1.4.2
+## Features
+- _Added several new decoration blocks_
+- _Added new forges which can be used to smelt things more efficiently_
+- _Added new button types_
+
+## Changes
+- _Spiders can now climb on roofs and walls_
+
+## Fixes
+- _Jei now works when playing multiplayer_
+
 # Fixes Update 3 Ver. 1.4.1
 ## Fixes
 - _Brought back old minimap because the new one didn't support modded biomes_
