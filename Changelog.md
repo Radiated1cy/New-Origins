@@ -1,3 +1,10 @@
+# PEANUT BUTTER JELLY TIME! Update Ver. 1.4.4
+![PEANUT BUTTER JELLY TIME](https://cdn.modrinth.com/data/cached_images/1faed7eaa2257c1f8a040d562728793fcf04814e.png)
+
+## Features
+- _Added Peanut Butter_
+- _Added new food types_ 
+
 # Fixes Update 4 Ver. 1.4.3
 ## Fixes
 - _Tweaked Settings_
