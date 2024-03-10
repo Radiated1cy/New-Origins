@@ -9,7 +9,8 @@
 - New shader options
 - Visual effect when on low health
 
-# lets just act as though 1.4.7 never existed okay
+# Oopsie Update Ver. 1.4.8
+- lets just act as though 1.4.7 never existed okay
 
 # No More Icy Update Ver. 1.4.6
 
