@@ -1,3 +1,27 @@
+# Fixes 5 Update Ver. 1.4.10
+
+## Fixes
+- Fixed being unable to join servers
+
+# Visuals Update Ver. 1.4.9
+
+## Features
+- New shader options
+- Visual effect when on low health
+
+lets just act as though 1.4.7 never existed okay
+
+# No More Icy Update Ver. 1.4.6
+
+## Fixes
+- _Fixed default skin automatically being Icy's skin_
+
+# Quality of Life 2 Update Ver. 1.4.5
+
+## Features
+- _Added the ability to change skin in game_
+- _Replaced ExtraSounds with Sounds for a more complete mod_
+
 # PEANUT BUTTER JELLY TIME! Update Ver. 1.4.4
 ![PEANUT BUTTER JELLY TIME](https://cdn.modrinth.com/data/cached_images/1faed7eaa2257c1f8a040d562728793fcf04814e.png)
 
