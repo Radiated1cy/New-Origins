@@ -10,6 +10,7 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 
 ## Roadmap 
 - **Wiki**
+- **Video Showcasing Gameplay**
 
 ## Credits
 <details>
@@ -285,9 +286,16 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Infinity Buttons](https://modrinth.com/mod/infinitybuttons 'Title')
 - [Nyf Spiders](https://modrinth.com/mod/nyfs-spiders 'Title')
 - [CraftPresence](https://modrinth.com/mod/craftpresence 'Title')
+- [Carpeted](https://modrinth.com/mod/carpeted-stairs 'Title')
+- [M.R.U](https://modrinth.com/mod/mru 'Title')
+- [Foggy Border](https://modrinth.com/mod/foggy-border 'Title')
+- [Sound](https://modrinth.com/mod/sound 'Title')
 - [Gravity Changer](https://modrinth.com/mod/gravity-api-fork 'Title')
 - [Amethyst Gravity](https://modrinth.com/mod/amethyst-gravity-reattracted 'Title')
+- [Expanded Delight](https://modrinth.com/mod/expanded-delight 'Title')
 - [CTOV Wizards Compat](https://modrinth.com/datapack/ctov-wizards-compat 'Title')
 - [CTOV Paladins & Priests](https://modrinth.com/datapack/ctov-paladins-n-priests-compat 'Title')
+- [Euphoria Patcher](https://modrinth.com/mod/euphoria-patches 'Title')
+- [Enhanced Visuals](https://modrinth.com/mod/enhancedvisuals 'Title')
 - [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
