@@ -2,6 +2,7 @@
 
 ## Features
 - _Waystones show up on map now_
+
 # The Atlas Update Ver. 1.4.11
 
 ## Features
