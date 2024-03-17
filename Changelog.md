@@ -1,3 +1,17 @@
+# Mini Update 2 Ver. 1.4.12
+
+## Features
+- _Waystones show up on map now_
+# The Atlas Update Ver. 1.4.11
+
+## Features
+- _New map to keep track of your worlds_
+- _New boss_
+- _This version should have a performance increase in general_
+
+## Updates
+- _HUD and GUI tweaks_
+
 # Fixes 5 Update Ver. 1.4.10
 
 ## Fixes
