@@ -292,6 +292,9 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Sound](https://modrinth.com/mod/sound 'Title')
 - [Gravity Changer](https://modrinth.com/mod/gravity-api-fork 'Title')
 - [Amethyst Gravity](https://modrinth.com/mod/amethyst-gravity-reattracted 'Title')
+- [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4 'Title')
+- [Antique Fwaystones](https://modrinth.com/mod/antique-fwaystones 'Title')
+- [Satisfying Buttons](https://modrinth.com/mod/satisfying-buttons 'Title')
 - [Expanded Delight](https://modrinth.com/mod/expanded-delight 'Title')
 - [CTOV Wizards Compat](https://modrinth.com/datapack/ctov-wizards-compat 'Title')
 - [CTOV Paladins & Priests](https://modrinth.com/datapack/ctov-paladins-n-priests-compat 'Title')
@@ -299,3 +302,4 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Enhanced Visuals](https://modrinth.com/mod/enhancedvisuals 'Title')
 - [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
+
