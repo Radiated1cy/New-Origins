@@ -300,6 +300,8 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [CTOV Paladins & Priests](https://modrinth.com/datapack/ctov-paladins-n-priests-compat 'Title')
 - [Euphoria Patcher](https://modrinth.com/mod/euphoria-patches 'Title')
 - [Enhanced Visuals](https://modrinth.com/mod/enhancedvisuals 'Title')
+- [Smarter Farmers Farmers Replant](https://modrinth.com/mod/smarter-farmers-farmers-replant 'Title')
+- [Chefs Delight](https://modrinth.com/mod/chefs-delight 'Title')
+- [CTOV Chefs Delight Compay](https://modrinth.com/datapack/ctov-chefs-delight-compat 'Title')
 - [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
-
