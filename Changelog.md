@@ -1,3 +1,17 @@
+# Necormancy Update Ver. 1.5.0
+(Create update soon)
+## Features
+- _New necromancy skill path_
+- _New endgame skill path_
+- _New endgame items_
+
+## Changes
+- _Some changes to villagers_
+
+## Fixes
+- _Fixed crash with knives_
+- _Fixed really bad performance on some devices_
+
 # Mini Update 2 Ver. 1.4.12
 
 ## Features
