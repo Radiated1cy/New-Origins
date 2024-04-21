@@ -1,3 +1,42 @@
+# Ver. 1.8.1
+
+## Features
+- _New dungeon_
+
+
+![Create Update](https://cdn.modrinth.com/data/cached_images/aa4fe3945404eaf775f57a2055c1d31c9f152dce.png)
+
+**The Create mod is now in the modpack!**
+
+# Ver. 1.8.0 
+
+## Features
+- _Added many new building tools and aesthetic technology_
+- _Wakes are now back_
+
+# Fixes 7 Update Ver. 1.7.1
+
+**Removed wakes, caused to many problem**
+
+# Ver. 1.7.0
+
+## Features
+- _New Trident Varients_
+- _Added Botania_
+- _Added Guilds_
+- _Made it so you need to explore to get to end_
+
+## Changes
+- _Switched to Farmers Delight Refabricated_
+- _Updated many stuff_
+  
+# Atlas Update Ver. 1.6.2
+
+## Updated
+- _Atlas mod updated_
+  
+# Fixes 6 Update Ver. 1.5.1
+
 # Necormancy Update Ver. 1.5.0
 (Create update soon)
 ## Features
