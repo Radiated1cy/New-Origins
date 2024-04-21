@@ -1,7 +1,7 @@
 ![The Title](https://cdn.modrinth.com/data/RP4uOhYr/images/242cb6c8cd8c9b14b58c59089032b3b3fd76dfcc.png)
 # What is New Origins?
 
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and radical RPG style game. Explore _large dangerous dungeons_, build a _giant city_, become a _wizard_ or _witch_, become a _knight_, become an _archer_, _rob villagers_, or even make a _factory_, the choice is yours. Wander into this new world alone or with **friends**. Just be careful, there are dangerous creatures that roam this world.
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and radical RPG style game while staying true to Vanilla. Explore _large dangerous dungeons_, build a _giant city_, become a _wizard_ or _witch_, become a _knight_, become an _archer_, _rob villagers_, or even make a _factory_, the choice is yours. Wander into this new world alone or with **friends**. Just be careful, there are dangerous creatures that roam this world.
 
 You can use **keyboard** and **mouse** or **controller**. I recommend you set up the _roll_ and _crawl_ keybinds on your controller. I find the experience to be better when using the shaders in the modpack however they are off by **default** as I know some people don't like shaders. This modpack is best experienced in **multiplayer**, however singleplayer definitely still works.
 
