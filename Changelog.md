@@ -4,13 +4,13 @@
 - _New dungeon_
 
 
-![Create Update](https://cdn.modrinth.com/data/cached_images/aa4fe3945404eaf775f57a2055c1d31c9f152dce.png)
 
-**The Create mod is now in the modpack!**
+
 
 # Ver. 1.8.0 
-
+![Create Update](https://cdn.modrinth.com/data/cached_images/aa4fe3945404eaf775f57a2055c1d31c9f152dce.png)
 ## Features
+**The Create mod is now in the modpack!**
 - _Added many new building tools and aesthetic technology_
 - _Wakes are now back_
 
