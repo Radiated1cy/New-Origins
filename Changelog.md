@@ -1,11 +1,36 @@
+# The Lively Update Ver. 1.9.0
+
+## Features
+- _New player animations_
+- _Nether world generation changes_
+- _New Health indicator_
+- _You will now be informed on the correct amount of ram you should have allocated to your game_
+
+## Changes
+- _Switched to EMI from JEI_
+
+## Removed
+- _Jade has been removed_
+- _Wavey capes have been removed_
+
+## Fixes
+- _Fixed wakes being broken on Apple Silicon devices_
+- _Fixed textures not loading_
+- _Fixed crash on Windows_
+- _Fixed camel spawns_
+
+# Ver. 1.8.2
+
+## Features
+- _New end fight music_
+
+## Fixes
+- _Fixed chest Z-fighting_
+
 # Ver. 1.8.1
 
 ## Features
 - _New dungeon_
-
-
-
-
 
 # Ver. 1.8.0 
 ![Create Update](https://cdn.modrinth.com/data/cached_images/aa4fe3945404eaf775f57a2055c1d31c9f152dce.png)
