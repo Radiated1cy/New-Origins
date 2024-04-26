@@ -1,4 +1,4 @@
-![The Title](https://cdn.modrinth.com/data/RP4uOhYr/images/242cb6c8cd8c9b14b58c59089032b3b3fd76dfcc.png)
+![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)
 # What is New Origins?
 
 New Origins is a modpack that aims to turn Minecraft into an extremely experimental and radical RPG style game while staying true to Vanilla. Explore _large dangerous dungeons_, build a _giant city_, become a _wizard_ or _witch_, become a _knight_, become an _archer_, _rob villagers_, or even make a _factory_, the choice is yours. Wander into this new world alone or with **friends**. Just be careful, there are dangerous creatures that roam this world.
@@ -6,7 +6,7 @@ New Origins is a modpack that aims to turn Minecraft into an extremely experimen
 You can use **keyboard** and **mouse** or **controller**. I recommend you set up the _roll_ and _crawl_ keybinds on your controller. I find the experience to be better when using the shaders in the modpack however they are off by **default** as I know some people don't like shaders. This modpack is best experienced in **multiplayer**, however singleplayer definitely still works.
 
 ## WARNING!
-**CHAT MESSAGES WON'T BE SIGNED IF YOU WISH TO HAVE THEM SIGNED, REMOVE NO CHAT REPORTS! WE DO NOT SUPPORT APPLE DEVICES USE AT YOUR OWN RISK!** 
+**CHAT MESSAGES WON'T BE SIGNED IF YOU WISH TO HAVE THEM SIGNED, REMOVE NO CHAT REPORTS!**
 
 ## Roadmap 
 - **Wiki**
@@ -51,7 +51,7 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Extrasounds](https://modrinth.com/mod/extrasounds 'Title')
 - [Fabric Waystones](https://modrinth.com/mod/fwaystones 'Title')
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves 'Title')
-- [Farmers Delight Fabric](https://modrinth.com/mod/farmers-delight-fabric 'Title')
+- [Farmers Delight Fabric](https://modrinth.com/mod/farmers-delight-refabricated 'Title')
 - [Farmers Knives](https://modrinth.com/mod/farmers-knives 'Title')
 - [Ferrite Core](https://modrinth.com/mod/ferrite-core 'Title')
 - [Blur Fabric](https://modrinth.com/mod/blur-fabric 'Title')
@@ -209,7 +209,7 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [PickYourPoison](https://modrinth.com/mod/pick-your-poison/version/1.1.1 'Title')
 - [TalkBubbles](https://modrinth.com/mod/talkbubbles 'Title')
 - [SuperSteeds](https://modrinth.com/mod/superb-steeds/version/1.20-1 'Title')
-- [Create Fabric CURRENTLY NOT USING](https://modrinth.com/mod/create-fabric 'Title')
+- [Create Fabric](https://modrinth.com/mod/create-fabric 'Title')
 - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft 'Title')
 - [Projectile Damage Attribute](https://modrinth.com/mod/projectile-damage-attribute'Title')
 - [Kiwi](https://modrinth.com/mod/kiwi 'Title')
@@ -304,4 +304,37 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Chefs Delight](https://modrinth.com/mod/chefs-delight 'Title')
 - [CTOV Chefs Delight Compay](https://modrinth.com/datapack/ctov-chefs-delight-compat 'Title')
 - [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
+- [Passable Foliage](https://modrinth.com/mod/passable-foliage 'Title')
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer 'Title')
+- [Neruina](https://modrinth.com/mod/neruina 'Title')
+- [Lunar](https://modrinth.com/mod/lunar 'Title')
+- [Grass Overhaul](https://modrinth.com/mod/grass-overhaul 'Title')
+- [Better Advancements](https://modrinth.com/mod/better-advancements 'Title')
+- [Kevs Tieredz Modifiers](https://modrinth.com/mod/kevs-tieredz-modifiers 'Title')
+- [Mythic Charms](https://modrinth.com/mod/mythic-charms 'Title')
+- [Zoomify](https://modrinth.com/mod/zoomify 'Title')
+- [Villager Names](https://modrinth.com/mod/villager-names-serilum 'Title')
+- [Village Spawn Point](https://modrinth.com/mod/village-spawn-point 'Title')
+- [Couplings](https://modrinth.com/mod/couplings 'Title')
+- [Harvest](https://modrinth.com/mod/harvest 'Title')
+- [More Armor Trims](https://modrinth.com/mod/more-armor-trims 'Title')
+- [Elytra trims extensions](https://modrinth.com/mod/elytra-trims-extensions 'Title')
+- [polymorph](https://modrinth.com/mod/polymorph 'Title')
+- [vein-mining](https://modrinth.com/mod/vein-mining 'Title')
+- [heracles](https://modrinth.com/mod/heracles 'Title')
+- [argonauts](https://modrinth.com/mod/argonauts 'Title')
+- [entity-model-features](https://modrinth.com/mod/entity-model-features 'Title')
+- [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api 'Title')
+- [emotecraft](https://modrinth.com/mod/emotecraft 'Title')
+- [botania](https://modrinth.com/mod/botania 'Title')
+- [Impaled](https://github.com/Ladysnake/Impaled/tree/1.20 'Title')
+- [Impaled](https://modrinth.com/mod/torohealth-damage-indicators-updated 'Title')
+- [EMI Trades](https://modrinth.com/mod/emitrades 'Title')
+- [EMI Loot](https://modrinth.com/mod/emi-loot 'Title')
+- [EMI Effect](https://modrinth.com/mod/emiffect 'Title')
+- [EMI Enchanting](https://modrinth.com/mod/emi-enchanting 'Title')
+- [EMI Ores](https://modrinth.com/mod/emi-ores 'Title')
+- [EMI](https://modrinth.com/mod/emi 'Title')
+- [Amplified Nether](https://modrinth.com/mod/amplified-nether 'Title')
+- [Dungeon Now Loading 1%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
