@@ -1,3 +1,41 @@
+## Survival Update Ver. 2.0.0
+
+### Features
+- _Items now have beams_
+- _Added seasons_
+- _Added camera_
+- _Added feeding trough_
+- _Added new music items_
+- _New ore types_
+- _Added titles for areas_
+- _Added custom portals_
+- _New cave biomes_
+- _You can now switch accounts in game_
+- _Snow now falls under leaves_
+- _New worlds now start at sunrise_
+
+### Changes
+- _Structures now spawn more sparsly_ 
+- _Switched to Catalogue from Mod Menu_
+- _Mobs now have new animations and textures_
+- _Items can now be infused with gems_
+- _You can now share a map with others_
+- _Map icons have color_
+- _Waystones now have cooldowns between usage_
+- _Pocket wormholes now have cooldowns between usage_
+
+### Updates
+- _Updated Antique Atlas_
+- _Updated Surveyor_
+
+### Removed
+- _Enhanced block entities_
+
+### Fixes
+- _Fixed graves not spawning_
+- _Fixed z fighting on bells and beds_
+- _Fixed dog animations_
+- 
 # Ver. 1.9.1
 
 ## Features
