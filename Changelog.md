@@ -1,3 +1,14 @@
+# Ver. 1.9.1
+
+## Features
+- _Added a new main menu button_
+
+## Removed
+- _Realms has been removed, no one is going to use them_
+
+## Fixes
+- _Fixed default settings_ 
+
 # The Lively Update Ver. 1.9.0
 
 ## Features
