@@ -1,18 +1,25 @@
 ![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)
-# What is New Origins?
 
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and radical RPG style game while staying true to Vanilla. Explore _large dangerous dungeons_, build a _giant city_, become a _wizard_ or _witch_, become a _knight_, become an _archer_, _rob villagers_, or even make a _factory_, the choice is yours. Wander into this new world alone or with **friends**. Just be careful, there are dangerous creatures that roam this world.
+<center></center>
+<center>  
+  This modpack simulates a Radical RPG Adventure gameplay with Multiplayer supported features. Also massively optimized to be playable on most PCs!</center>
+  
+#
+### <center></center>
+### <center>Description</center>
 
-You can use **keyboard** and **mouse** or **controller**. I recommend you set up the _roll_ and _crawl_ keybinds on your controller. I find the experience to be better when using the shaders in the modpack however they are off by **default** as I know some people don't like shaders. This modpack is best experienced in **multiplayer**, however singleplayer definitely still works.
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game while staying true to **Vanilla**. You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
 
-## WARNING!
-**CHAT MESSAGES WON'T BE SIGNED IF YOU WISH TO HAVE THEM SIGNED, REMOVE NO CHAT REPORTS!**
+This modpack simulates a **Radical RPG** adventure. It's also optimized for lower end PCs! Using shaders follows the aesthetic appeal of this modpack, the default setting has them off, as some people may not be able to run them. You should play multiplayer, however that isn't required. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very big skill tree with multiple paths to choose from. There's items that can be applied to your armor to prevent getting to hot or cold. 
 
-## Roadmap 
-- **Wiki**
-- **Video Showcasing Gameplay**
-
-## Credits
+#
+### <center></center>
+### <center>Technical Stuff</center>
+- Required 3 GB of memory. The game will tell you the recommended memory for your system.
+- The modpack is required on server and client.
+#
+### <center></center>
+### <center>Credits</center>
 <details>
 <summary>Mods Included</summary>
 
@@ -62,7 +69,6 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Bountiful](https://modrinth.com/mod/bountiful 'Title')
 - [Cake Chomps](https://modrinth.com/mod/cake-chomps 'Title')
 - [Calibrated](https://modrinth.com/mod/calibrated 'Title')
-- [Camera Utils](https://modrinth.com/mod/camera-utils 'Title')
 - [Capes](https://modrinth.com/mod/capes 'Title')
 - [Carpeted Stairs](https://modrinth.com/mod/carpeted-stairs 'Title')
 - [Cat Jam](https://modrinth.com/mod/cat_jam 'Title')
@@ -97,7 +103,6 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [Better Combat](https://modrinth.com/mod/better-combat 'Title')
 - [Better End](https://modrinth.com/mod/betterend 'Title')
 - [Better Stats](https://modrinth.com/mod/better-stats 'Title')
-- [Better Third Person](https://modrinth.com/mod/better-third-person 'Title')
 - [Better Tridents](https://modrinth.com/mod/better-tridents 'Title')
 - [Better F3](https://modrinth.com/mod/betterf3 'Title')
 - [BLAST](https://modrinth.com/mod/blast 'Title')
@@ -334,7 +339,28 @@ You can use **keyboard** and **mouse** or **controller**. I recommend you set up
 - [EMI Effect](https://modrinth.com/mod/emiffect 'Title')
 - [EMI Enchanting](https://modrinth.com/mod/emi-enchanting 'Title')
 - [EMI Ores](https://modrinth.com/mod/emi-ores 'Title')
-- [EMI](https://modrinth.com/mod/emi 'Title')
+- [IGAS](https://modrinth.com/mod/in-game-account-switcher/version/8.0.2-fabric1.20 'Title')
+- [Itemswapper](https://modrinth.com/plugin/itemswapper/version/utlGYv3m 'Title')
+- [Cleardespawn](https://modrinth.com/mod/cleardespawn/version/jpRIGRtD 'Title')
+- [Exposure](https://modrinth.com/mod/exposure/version/SIkhFpiB 'Title')
+- [Areas](https://www.curseforge.com/minecraft/mc-mods/areas 'Title')
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue-fabric 'Title')
+- [AddtionZ](https://modrinth.com/mod/additionz 'Title')
+- [Custom Portals](https://modrinth.com/mod/custom-portals 'Title')
+- [SmitherZ](https://modrinth.com/mod/smitherz 'Title')
+- [Fabric Seasons](https://modrinth.com/mod/fabric-seasons 'Title')
+- [Fabric Seasons Delight Compat](https://modrinth.com/mod/fabric-seasons-delight-compat 'Title')
+- [Immersive Melodies](https://modrinth.com/mod/immersive-melodies 'Title')
+- [Lootbeamsfabricupdated](https://modrinth.com/mod/lootbeamsfabricupdated 'Title')
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer 'Title')
+- [Particle Fixer](https://modrinth.com/mod/particle-tweaks 'Title')
+- [Profundis](https://modrinth.com/mod/profundis 'Title')
+- [Sparsestructures](https://modrinth.com/mod/sparsestructures 'Title')
+- [Time Wind](https://modrinth.com/mod/time-wind 'Title')
+- [Tooltipfix](https://modrinth.com/mod/tooltipfix 'Title')
+- [Universal Ores](https://modrinth.com/mod/universal_ores 'Title')
+- [Fabric Seasons Extra](https://modrinth.com/mod/fabric-seasons-extras 'Title')
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether 'Title')
 - [Dungeon Now Loading 1%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading 'Title')
+- [Paxi](https://modrinth.com/mod/paxi 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
