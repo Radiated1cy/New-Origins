@@ -1,3 +1,55 @@
+## Ver. 2.0.8
+
+### Removed
+- _Removed_ [_Ksyxis_](https://github.com/VidTu/Ksyxis/issues/25)
+
+## Ver. 2.0.7
+
+### Features
+- Added several new moons
+- Added several new planes
+- There is now only 4 types of moons
+### Changes
+- Blood moons are now actually something to worry about
+- No more annoying overlay when you are in a cold area
+- Temperature bar removed to reduce clutter
+- Tnt barrel's can be crafted now
+### Removed
+- Crimson moons and small moons are gone.
+### Fixes
+- Fixed various bugs
+
+## Ver. 2.0.6
+- Small Changes
+
+## Ver. 2.0.5
+
+### Changes
+- New Origins resources automatically turn on
+### Fixes
+- Fixed broken textures on servers
+
+## Ver. 2.0.4
+
+### Changes
+- Guard's will no longer attack you for stealing
+### Fixes
+- Fixed crash caused by villagers
+
+## Ver. 2.0.3
+- Small Changes
+
+## Ver. 2.0.2
+### Fixes
+- Fixed Configs
+
+## Ver. 2.0.1
+
+### Fixes
+- Fixed Illager textures
+- Fixed Wolf textures
+- Fixed Villager nose animation
+- Cleaned up some files
 ## Survival Update Ver. 2.0.0
 
 ### Features
