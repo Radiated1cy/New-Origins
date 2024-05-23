@@ -14,14 +14,33 @@ This modpack simulates a **Radical RPG** adventure. It's also optimized for lowe
 
 #
 ### <center></center>
+### <center>Features</center>
+
+- Temperature - ensure that you watch over your temperature and stay warm during winter.
+- Visual Enhancements - water effects, screen effects, particle effects.
+- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces, [custom soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack)
+- Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
+- Voice Chat - talk to people in game.
+- 4 Seasons - biome temperature changes every season.
+- Skill Tree - extensive skill tree with different paths to choose from.
+- Paths - chose from paths such as Beserker, spellblade, rogue, etc.
+- Teams - get friends in your guild and explore the world together.
+- Difficulty - difficulty is scaled, the more you play the harder the mobs get.
+- Trade - setup shops and trade with villagers or other people.
+- Build - build incredible structures with the huge selection of new building blocks
+- Technology - build bread farms with create, build planes to get around
+
+#
+### <center></center>
 ### <center>Technical Stuff</center>
 - Required 3 GB of memory. The game will tell you the recommended memory for your system.
 - The modpack is required on server and client.
+- Use [mrpack-install](https://github.com/nothub/mrpack-install#readme) if you want a server.
 #
 ### <center></center>
 ### <center>Credits</center>
 <details>
-<summary>Mods Included</summary>
+<summary>Mods, Resourcepacks, Shaders</summary>
 
 - [Friends or Foes](https://modrinth.com/mod/friends-and-foes 'Title')
 - [Galosphere](https://modrinth.com/mod/geckolib 'Title')
@@ -362,5 +381,9 @@ This modpack simulates a **Radical RPG** adventure. It's also optimized for lowe
 - [Fabric Seasons Extra](https://modrinth.com/mod/fabric-seasons-extras 'Title')
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether 'Title')
 - [Dungeon Now Loading 1%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading 'Title')
+- [Log Begone](https://modrinth.com/mod/log-begone 'Title')
+- [Philips Ruins](https://modrinth.com/mod/philips-ruins 'Title')
 - [Paxi](https://modrinth.com/mod/paxi 'Title')
+- [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour 'Title')
+- [MineCells](https://modrinth.com/mod/minecells 'Title')
 - Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
