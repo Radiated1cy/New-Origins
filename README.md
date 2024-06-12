@@ -29,13 +29,14 @@ This modpack simulates a **Radical RPG** adventure. It's also optimized for lowe
 - Trade - setup shops and trade with villagers or other people.
 - Build - build incredible structures with the huge selection of new building blocks
 - Technology - build bread farms with create, build planes to get around
+- Structures - explore many structures across the world, structures are spread out
 
 #
 ### <center></center>
 ### <center>Technical Stuff</center>
 - Required 3 GB of memory. The game will tell you the recommended memory for your system.
 - The modpack is required on server and client.
-- Use [mrpack-install](https://github.com/nothub/mrpack-install#readme) if you want a server.
+- Use [mrpack-install](https://github.com/nothub/mrpack-install#readme) if you want a real server.
 #
 ### <center></center>
 ### <center>Credits</center>
@@ -386,4 +387,17 @@ This modpack simulates a **Radical RPG** adventure. It's also optimized for lowe
 - [Paxi](https://modrinth.com/mod/paxi 'Title')
 - [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour 'Title')
 - [MineCells](https://modrinth.com/mod/minecells 'Title')
-- Radical soundtrack music from Amos Randy & C418 (should be copyright free for youtube but if it isn't just disable the resource pack)
+- [Fog Looks Good Now](https://modrinth.com/mod/fog-looks-good-now-fabric 'Title')
+- [Stutterfix](https://modrinth.com/mod/stutterfix)
+- [pandas-falling-trees](https://modrinth.com/mod/pandas-falling-trees)
+- [pandalib](https://modrinth.com/mod/diagonal-windows)
+- [diagonal-walls](https://modrinth.com/mod/diagonal-walls)
+- [dashloader](https://modrinth.com/mod/dashloader)
+- [item-obliterator](https://modrinth.com/mod/item-obliterator)
+- [animationoverhaul](https://modrinth.com/mod/animationoverhaul)
+- [tax-free-levels](https://modrinth.com/mod/tax-free-levels)
+- [diagonal-fences](https://modrinth.com/mod/diagonal-fences)
+- [healing-campfire](https://modrinth.com/mod/healing-campfire)
+- [respawnable-pets](https://modrinth.com/mod/respawnable-pets)
+- [xalis-potion](https://modrinth.com/resourcepack/xalis-potion) 
+- Radical soundtrack music by Just A Space Cowboy
