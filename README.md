@@ -8,24 +8,24 @@
 ### <center></center>
 ### <center>Description</center>
 
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game while staying true to **Vanilla**. You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game. You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
 
-This modpack simulates a **Radical RPG** adventure. It's also optimized for lower end PCs! Using shaders follows the aesthetic appeal of this modpack, the default setting has them off, as some people may not be able to run them. You should play multiplayer, however that isn't required. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very big skill tree with multiple paths to choose from. There's items that can be applied to your armor to prevent getting to hot or cold. 
-
+This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraft more challenging and enhance the exploration side of the game. It's also optimized for lower end PCs! This modpack adds tons of new structures and mechanics to give it the RPG feel. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very huge skill tree with multiple paths to choose from. 
 #
 ### <center></center>
 ### <center>Features</center>
 
-- Temperature - ensure that you watch over your temperature and stay warm during winter.
-- Visual Enhancements - water effects, screen effects, particle effects.
-- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces, [custom soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack)
+
+- Difficulty - difficulty is scaled, the more you play and the further out you explore, the harder the mobs get.
 - Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
 - Voice Chat - talk to people in game.
 - 4 Seasons - biome temperature changes every season.
 - Skill Tree - extensive skill tree with different paths to choose from.
 - Paths - chose from paths such as Beserker, spellblade, rogue, etc.
 - Teams - get friends in your guild and explore the world together.
-- Difficulty - difficulty is scaled, the more you play the harder the mobs get.
+- Temperature - ensure that you watch over your temperature and stay warm during winter.
+- Visual Enhancements - water effects, screen effects, particle effects.
+- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces, [custom soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack)
 - Trade - setup shops and trade with villagers or other people.
 - Build - build incredible structures with the huge selection of new building blocks
 - Technology - build bread farms with create, build planes to get around
