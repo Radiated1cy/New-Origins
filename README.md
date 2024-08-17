@@ -8,7 +8,7 @@
 ### <center></center>
 ### <center>Description</center>
 
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game. You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game.  You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. Tame a Dragon and become a Dragon Rider. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Explore a world dominated by _Dragons_. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
 
 This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraft more challenging and enhance the exploration side of the game. It's also optimized for lower end PCs! This modpack adds tons of new structures and mechanics to give it the RPG feel. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very huge skill tree with multiple paths to choose from. 
 #
@@ -18,17 +18,22 @@ This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraf
 
 - Difficulty - difficulty is scaled, the more you play and the further out you explore, the harder the mobs get.
 - Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
+- Dragons - Tame dragons, become a dragon rider and fly them into battle.
 - Voice Chat - talk to people in game.
-- 4 Seasons - biome temperature changes every season.
 - Skill Tree - extensive skill tree with different paths to choose from.
 - Paths - chose from paths such as Beserker, spellblade, rogue, etc.
+- Day Cycle - days and nights are longer. (48 minutes and 24 minutes)
 - Teams - get friends in your guild and explore the world together.
+- Mobs - find new mobs and pets around the world.
+- Combat - enhanced combat for a more engaging experience.
+- Equipment - backpacks, longswords, and other weapons and items.
 - Temperature - ensure that you watch over your temperature and stay warm during winter.
 - Visual Enhancements - water effects, screen effects, particle effects.
-- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces, [custom soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack)
+- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces. 
+- [Custom Soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack) - custom music that changes based on the situation.
 - Trade - setup shops and trade with villagers or other people.
-- Build - build incredible structures with the huge selection of new building blocks
-- Technology - build bread farms with create, build planes to get around
+- Build - build incredible structures with the huge selection of new building blocks, including verticle slabs.
+- Create Mod - build incredible technology with create.
 - Structures - explore many structures across the world, structures are spread out
 
 #
@@ -37,6 +42,436 @@ This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraf
 - Required 3 GB of memory. The game will tell you the recommended memory for your system.
 - The modpack is required on server and client.
 - Use [mrpack-install](https://github.com/nothub/mrpack-install#readme) if you want a real server.
+
+#
+### <center></center>
+### <center>Other projects</center>
+
+<center></center>
+<center>  
+
+[![Minecraft Evolved](https://cdn.modrinth.com/data/cached_images/144d4de84556635375e313dcc67ea27c88336ea1.png)](https://modrinth.com/modpack/evolved)
+[![Beta Frontier](https://cdn.modrinth.com/data/cached_images/a25baeafc4b63321e013d5bcba9f766dd2a557b1.png)](https://modrinth.com/modpack/beta-frontier)
+
+#
+### <center></center>
+### <center>Credits</center>
+<details>
+<summary>Mods, Resourcepacks, Shaders</summary>
+
+- [Friends or Foes](https://modrinth.com/mod/friends-and-foes 'Title')
+- [Galosphere](https://modrinth.com/mod/geckolib 'Title')
+- [Geckolib](https://modrinth.com/mod/geckolib 'Title')
+- [Durability Viewer](https://modrinth.com/mod/durabilityviewer 'Title')
+- [Guarding](https://modrinth.com/mod/guarding 'Title')
+- [Held Item Info](https://modrinth.com/mod/held-item-info 'Title')
+- [Hellions Sniffer](https://modrinth.com/mod/hellions-sniffer+ 'Title')
+- [Herds Panic](https://modrinth.com/mod/herdspanic 'Title')
+- [Iceberg](https://modrinth.com/mod/iceberg 'Title')
+- [Illager Invasion](https://modrinth.com/mod/illager-invasion 'Title')
+- [Immersive Paintings](https://modrinth.com/mod/immersive-paintings 'Title')
+- [Datapack Portals](https://modrinth.com/mod/datapackportals 'Title')
+- [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen 'Title')
+- [Data Criteria](https://modrinth.com/mod/data-criteria 'Title')
+- [Deathlog](https://modrinth.com/mod/deathlog 'Title')
+- [DeeperDarker](https://modrinth.com/mod/deeperdarker 'Title')
+- [Deepslate Cutting](https://modrinth.com/mod/deepslatecutting 'Title')
+- [Discs where discs shouldn't be](https://modrinth.com/mod/dwdsb 'Title')
+- [Dramatic Doors](https://modrinth.com/mod/dramatic-doors 'Title')
+- [Drip Sounds](https://modrinth.com/mod/dripsounds-fabric 'Title')
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps 'Title')
+- [Easy Magic](https://modrinth.com/mod/easy-magic 'Title')
+- [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes 'Title')
+- [Eating Animation](https://modrinth.com/mod/eating-animation 'Title')
+- [Elytra Trims](https://modrinth.com/mod/elytra-trims 'Title')
+- [Enchantments Plus](https://modrinth.com/mod/enchantments-plus 'Title')
+- [Enhanced Block Entities ](https://modrinth.com/mod/ebe 'Title')
+- [Enitity Culling](https://modrinth.com/mod/entityculling 'Title')
+- [Expanded Ecosphere](https://modrinth.com/mod/expanded-ecosphere 'Title')
+- [Explorify](https://modrinth.com/datapack/explorify 'Title')
+- [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement 'Title')
+- [Extractinator](https://modrinth.com/mod/extractinator 'Title')
+- [Extrasounds](https://modrinth.com/mod/extrasounds 'Title')
+- [Fabric Waystones](https://modrinth.com/mod/fwaystones 'Title')
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves 'Title')
+- [Farmers Delight Fabric](https://modrinth.com/mod/farmers-delight-refabricated 'Title')
+- [Farmers Knives](https://modrinth.com/mod/farmers-knives 'Title')
+- [Ferrite Core](https://modrinth.com/mod/ferrite-core 'Title')
+- [Blur Fabric](https://modrinth.com/mod/blur-fabric 'Title')
+- [Amarite](https://modrinth.com/mod/amarite 'Title')
+- [Bookshelf Lib](https://modrinth.com/mod/bookshelf-lib 'Title')
+- [Borderless Mining](https://modrinth.com/mod/borderless-mining 'Title')
+- [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction 'Title')
+- [Bountiful](https://modrinth.com/mod/bountiful 'Title')
+- [Cake Chomps](https://modrinth.com/mod/cake-chomps 'Title')
+- [Calibrated](https://modrinth.com/mod/calibrated 'Title')
+- [Capes](https://modrinth.com/mod/capes 'Title')
+- [Carpeted Stairs](https://modrinth.com/mod/carpeted-stairs 'Title')
+- [Cat Jam](https://modrinth.com/mod/cat_jam 'Title')
+- [Chalk](https://modrinth.com/mod/chalk 'Title')
+- [Chat Heads](https://modrinth.com/mod/chat-heads 'Title')
+- [Chat Notify](https://modrinth.com/mod/chat-notify 'Title')
+- [Clean Cut](https://modrinth.com/mod/cleancut'Title')
+- [Combat Roll](https://modrinth.com/mod/combat-roll 'Title')
+- [Comforts](https://modrinth.com/mod/comforts 'Title')
+- [Command Config](https://modrinth.com/mod/command-config 'Title')
+- [C2ME](https://modrinth.com/mod/c2me-fabric 'Title')
+- [Connectible Chains](https://modrinth.com/mod/connectible_chains 'Title')
+- [Continuity](https://modrinth.com/mod/continuity 'Title')
+- [Corgilib](https://modrinth.com/mod/corgilib 'Title')
+- [Crawl](https://modrinth.com/mod/crawl 'Title')
+- [Cristel-Lib](https://modrinth.com/mod/cristel-lib 'Title')
+- [Ctrl Q](https://modrinth.com/mod/ctrl-q 'Title')
+- [CEM](https://modrinth.com/mod/cem 'Title')
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques 'Title')
+- [Advancement Frames](https://modrinth.com/mod/advancement-frames 'Title')
+- [Amecs](https://modrinth.com/mod/amecs 'Title')
+- [Appleskin](https://modrinth.com/mod/appleskin 'Title')
+- [Architectury API](https://modrinth.com/mod/architectury-api 'Title')
+- [Armor Statues](https://modrinth.com/mod/armor-statues 'Title')
+- [Armor Trim Fix](https://modrinth.com/mod/armor-trim-item-fix 'Title')
+- [Armorful](https://modrinth.com/mod/armorful 'Title')
+- [Autotag](https://modrinth.com/mod/autotag 'Title')
+- [Azurelib Armor](https://modrinth.com/mod/azurelib-armor 'Title')
+- [Bclib](https://modrinth.com/mod/bclib 'Title')
+- [Beneath the Wetlands](https://modrinth.com/mod/beneath-the-wetlands 'Title')
+- [Better Archeology](https://modrinth.com/mod/better-archeology 'Title')
+- [Better Combat](https://modrinth.com/mod/better-combat 'Title')
+- [Better End](https://modrinth.com/mod/betterend 'Title')
+- [Better Stats](https://modrinth.com/mod/better-stats 'Title')
+- [Better Tridents](https://modrinth.com/mod/better-tridents 'Title')
+- [Better F3](https://modrinth.com/mod/betterf3 'Title')
+- [BLAST](https://modrinth.com/mod/blast 'Title')
+- [Fiber](https://github.com/FabLabsMC/fiber 'Title')
+- [Simple Copper Pipes](https://modrinth.com/mod/simple-copper-pipes 'Title')
+- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat 'Title')
+- [Sit](https://modrinth.com/mod/bl4cks-sit 'Title')
+- [Small Ships](https://modrinth.com/mod/small-ships 'Title')
+- [Sodium](https://modrinth.com/mod/sodium 'Title')
+- [Some Ordinary Tweaks](https://modrinth.com/mod/ordinarytweaks 'Title')
+- [Soul Fire'd](https://modrinth.com/mod/soul-fire-d 'Title')
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered 'Title')
+- [Spell Engine](https://modrinth.com/mod/spell-engine 'Title')
+- [Spell Power](https://modrinth.com/mod/spell-power 'Title')
+- [Spelunker](https://modrinth.com/mod/spelunker 'Title')
+- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars 'Title')
+- [Stendhal](https://modrinth.com/mod/stendhal 'Title')
+- [Stoneworks](https://modrinth.com/mod/stoneworks 'Title')
+- [Structure Pool API](https://modrinth.com/mod/structure-pool-api 'Title')
+- [Subterrestrial](https://modrinth.com/mod/subterrestrial 'Title')
+- [Supplementaries](https://modrinth.com/mod/supplementaries 'Title')
+- [Telepistons](https://modrinth.com/mod/telepistons 'Title')
+- [The Lost Castle](https://modrinth.com/mod/the-lost-castle 'Title')
+- [TiredZ](https://modrinth.com/mod/tieredz 'Title')
+- [Tips](https://modrinth.com/mod/tips 'Title')
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers 'Title')
+- [Travelers Titles](https://modrinth.com/mod/travelers-titles 'Title')
+- [Trinkets](https://modrinth.com/mod/trinkets 'Title')
+- [Ultris](https://modrinth.com/datapack/ultris 'Title')
+- [UMU Backpack](https://modrinth.com/mod/umu-backpack 'Title')
+- [Universal Graves](https://modrinth.com/mod/universal-graves 'Title')
+- [Villager Hats](https://modrinth.com/mod/villager-hats 'Title')
+- [Villager Transportation](https://modrinth.com/datapack/villager-transportation 'Title')
+- [Visual Workbench](https://modrinth.com/mod/visual-workbench 'Title')
+- [Visuality](https://modrinth.com/mod/visuality 'Title')
+- [Wakes](https://modrinth.com/mod/wakes 'Title')
+- [Walkie Talkie](https://modrinth.com/mod/walkie-talkie 'Title')
+- [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise 'Title')
+- [Windchimes](https://modrinth.com/mod/windchimes 'Title')
+- [Wizards](https://modrinth.com/mod/wizards 'Title')
+- [Xaeros Minimap](https://modrinth.com/mod/xaeros-minimap 'Title')
+- [Xaeros World Map](https://modrinth.com/mod/xaeros-world-map 'Title')
+- [Goated](https://modrinth.com/mod/goated 'Title')
+- [Yungs API](https://modrinth.com/mod/yungs-api 'Title')
+- [Yungs Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments 'Title')
+- [Yungs Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons 'Title')
+- [Yungs Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts 'Title')
+- [Yungs Better Nether Fortress](https://modrinth.com/mod/yungs-better-nether-fortresses 'Title')
+- [Yungs Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds 'Title')
+- [Yungs Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts 'Title')
+- [Yungs Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples 'Title')
+- [Yungs Better End Island](https://modrinth.com/mod/yungs-better-end-island 'Title')
+- [Medieval Weapons](https://modrinth.com/mod/medievalweapons 'Title')
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix 'Title')
+- [Mod Menu](https://modrinth.com/mod/modmenu 'Title')
+- [Model Fix](https://modrinth.com/mod/modelfix 'Title')
+- [More Culling](https://modrinth.com/mod/moreculling 'Title')
+- [More Geodes](https://modrinth.com/mod/more-geodes 'Title')
+- [More Mob Variants](https://modrinth.com/mod/more-mob-variants 'Title')
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks 'Title')
+- [Moyai](https://modrinth.com/mod/moyai 'Title')
+- [Naturalist](https://modrinth.com/mod/naturalist 'Title')
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports 'Title')
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations 'Title')
+- [Numismatic Overhaul](https://modrinth.com/mod/numismatic-overhaul 'Title')
+- [Patchouli](https://modrinth.com/mod/patchouli 'Title')
+- [Pehkui](https://modrinth.com/mod/pehkui 'Title')
+- [Plagues Chat Timestamps](https://modrinth.com/mod/plagues-chat-timestamps 'Title')
+- [Presence in Footsteps](https://modrinth.com/mod/presence-footsteps 'Title')
+- [Prism Lib](https://modrinth.com/mod/prism-lib 'Title')
+- [Return Copper Horns](https://modrinth.com/mod/copper-horns 'Title')
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib 'Title')
+- [Resourceful COnfig](https://modrinth.com/mod/resourceful-config 'Title')
+- [Runes](https://modrinth.com/mod/runes 'Title')
+- [RPG Difficulty](https://modrinth.com/mod/rpgdifficulty 'Title')
+- [Satin API](https://modrinth.com/mod/satin-api 'Title')
+- [Immersive Thunder](https://modrinth.com/mod/immersivethunder 'Title')
+- [Incantationem](https://modrinth.com/mod/incantationem 'Title')
+- [Indium](https://modrinth.com/mod/indium 'Title')
+- [Iris](https://modrinth.com/mod/iris 'Title')
+- [Jade](https://modrinth.com/mod/jade 'Title')
+- [JEDJ](https://modrinth.com/mod/just-enough-effect-descriptions-jeed 'Title')
+- [JEI](https://modrinth.com/mod/jei 'Title')
+- [Kaffees Dual Ride](https://modrinth.com/mod/kaffees_dual_ride 'Title')
+- [Lamdynamiclights](https://modrinth.com/mod/lambdynamiclights 'Title')
+- [Lazydfu](https://modrinth.com/mod/lazydfu 'Title')
+- [Legacies and Legends](https://modrinth.com/mod/legacies-and-legends 'Title')
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips 'Title')
+- [Let Sleeping Dogs Lie](https://modrinth.com/mod/letsleepingdogslie 'Title')
+- [Lexicon](https://modrinth.com/mod/lexicon 'Title')
+- [LibZ](https://modrinth.com/mod/libz 'Title')
+- [Lithium](https://modrinth.com/mod/lithium 'Title')
+- [Controlify](https://modrinth.com/mod/controlify 'Title')
+- [Easy Anvils](https://modrinth.com/mod/easy-anvils/version/v8.0.1-1.20.1-Fabric 'Title')
+- [Seamless Loading Screen](https://modrinth.com/mod/seamless-loading-screen 'Title')
+- [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns 'Title')
+- [Snowy Spirit](https://www.modrinth.com/mod/snowy-spirit 'Title')
+- [Storage Labels](https://modrinth.com/mod/labels 'Title')
+- [Guard Villagers (Fabric/Quilt)](https://modrinth.com/mod/guard-villagers-(fabricquilt) 'Title')
+- [Fabric ASM](https://github.com/Chocohead/Fabric-ASM 'Title')
+- [Fabric Simplelibs](https://github.com/MCLegoMan/fabric-simplelibs 'Title')
+- [Static Data](https://github.com/CottonMC/StaticData 'Title')
+- [Complementary Unbound](https://modrinth.com/shader/complementary-unbound 'Title')
+- [Archers](https://modrinth.com/mod/archers 'Title')
+- [Paladins and Priests](https://modrinth.com/mod/paladins-and-priests 'Title')
+- [Jewelry](https://modrinth.com/mod/jewelry 'Title')
+- [Infinite Music](https://modrinth.com/mod/infinite-music 'Title')
+- [NiftyCarts](https://modrinth.com/mod/niftycarts 'Title')
+- [PickYourPoison](https://modrinth.com/mod/pick-your-poison/version/1.1.1 'Title')
+- [TalkBubbles](https://modrinth.com/mod/talkbubbles 'Title')
+- [SuperSteeds](https://modrinth.com/mod/superb-steeds/version/1.20-1 'Title')
+- [Create Fabric](https://modrinth.com/mod/create-fabric 'Title')
+- [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft 'Title')
+- [Projectile Damage Attribute](https://modrinth.com/mod/projectile-damage-attribute'Title')
+- [Kiwi](https://modrinth.com/mod/kiwi 'Title')
+- [Joy of painting](https://modrinth.com/mod/joy-of-painting 'Title')
+- [Enviromentz](https://modrinth.com/mod/environmentz 'Title')
+- [World Host](https://modrinth.com/mod/world-host 'Title')
+- [Early Stage](https://modrinth.com/mod/earlystage 'Title')
+- [Voidz](https://modrinth.com/mod/voidz 'Title')
+- [BOMD](https://modrinth.com/mod/bosses-of-mass-destruction 'Title')
+- [MMMMMMMM](https://modrinth.com/mod/mmmmmmmmmmmm 'Title')
+- [Item Borders](https://modrinth.com/mod/item-borders 'Title')
+- [Item Highlighter](https://modrinth.com/mod/item-highlighter 'Title')
+- [Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric 'Title')
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions 'Title')
+- [Snow Real Magic](https://modrinth.com/mod/snow-real-magic 'Title')
+- [CTOVFAFC](https://modrinth.com/datapack/ctov-friends-and-foes-compat 'Title')
+- [Spawn Animations](https://modrinth.com/datapack/spawn-animations 'Title')
+- [VillagerPlus](https://modrinth.com/mod/villagersplus 'Title')
+- [CTOVVPC](https://modrinth.com/datapack/ctov-villagers-plus-compat 'Title')
+- [CTOV](https://modrinth.com/mod/ct-overhaul-village 'Title')
+- [Imnmis Addon](https://modrinth.com/mod/inmisaddon 'Title')
+- [Another Furniture](https://modrinth.com/mod/another-furniture 'Title')
+- [Inmis](https://modrinth.com/mod/inmis 'Title')
+- [Sawmill](https://modrinth.com/mod/universal-sawmill 'Title')
+- [Music Maker Mod](https://modrinth.com/mod/music-maker-mod 'Title')
+- [MCV](https://modrinth.com/mod/more-chest-variants-lieonlion 'Title')
+- [MCT](https://modrinth.com/mod/more-crafting-tables-lieonlion 'Title')
+- [Nimble](https://modrinth.com/mod/nimble 'Title')
+- [Every Compat Wood Good](https://modrinth.com/mod/every-compat 'Title')
+- [Shut Up GL Error](https://modrinth.com/mod/shut-up-gl-error 'Title')
+- [Quad](https://modrinth.com/mod/quad 'Title')
+- [Refined Advancements](https://modrinth.com/datapack/refined-advancements 'Title')
+- [Postmortal Particles](https://modrinth.com/mod/postmortal-particles 'Title')
+- [Echo Chest](https://modrinth.com/mod/echo-chest 'Title')
+- [Portable Hole](https://modrinth.com/mod/portable-hole 'Title')
+- [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier 'Title')
+- [Overflowing Bars](https://modrinth.com/mod/overflowing-bars 'Title')
+- [Epic Knights](https://modrinth.com/mod/epic-knights-shields-armor-and-weapons 'Title')
+- [resourcefullib](https://modrinth.com/mod/resourceful-lib 'Title')
+- [Chipped](https://modrinth.com/mod/chipped 'Title')
+- [Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings 'Title')
+- [Trapdoors](https://modrinth.com/mod/macaws-trapdoors 'Title')
+- [Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls 'Title')
+- [Roofs](https://modrinth.com/mod/macaws-roofs 'Title')
+- [Windows](https://modrinth.com/mod/macaws-windows 'Title')
+- [Doors](https://modrinth.com/mod/macaws-doors 'Title')
+- [True Ending](https://modrinth.com/resourcepack/true-ending-ender-dragon-music 'Title')
+- [Simply Skills](https://modrinth.com/mod/simply-skills 'Title')
+- [Underground Jungle](https://modrinth.com/mod/underground-jungle 'Title')
+- [Phantom](https://modrinth.com/mod/phantom-loader 'Title')
+- [Realistic Bees](https://modrinth.com/mod/realistic-bees 'Title')
+- [Place Item](https://modrinth.com/mod/place-item 'Title')
+- [Dark Waters](https://modrinth.com/mod/dark-waters 'Title')
+- [Spirit Walker](https://modrinth.com/mod/spirit-walker 'Title')
+- [Grappling hook](https://modrinth.com/mod/grappling-hook-mod-fabric 'Title')
+- [What are they up to](https://modrinth.com/mod/what-are-they-up-to 'Title')
+- [Spellbound](https://modrinth.com/mod/spellbound 'Title')
+- [Magic Mirrior](https://modrinth.com/mod/qds-magic-mirror 'Title')
+- [Horsebuff](https://modrinth.com/mod/horsebuff 'Title')
+- [You Thief](https://modrinth.com/mod/you-thief-remastered-edition 'Title')
+- [Whistle Spur](https://modrinth.com/mod/eugenes-whistle-spur 'Title')
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments 'Title')
+- [Hybird Aquatic](https://modrinth.com/mod/hybrid-aquatic 'Title')
+- [FFFM](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric 'Title')
+- [Better Ladders](https://modrinth.com/mod/better-ladders/version/vhz0me3l 'Title')
+- [Simple Hats](https://modrinth.com/mod/simple-hats 'Title')
+- [Iron Chest](https://modrinth.com/mod/cyberanner-ironchest 'Title')
+- [Hamsters](https://modrinth.com/mod/hamsters/version/fabric-1.0.3-1.20.1 'Title')
+- [Warrior Rage](https://modrinth.com/mod/warrior-rage 'Title')
+- [Invocations](https://modrinth.com/mod/invocations 'Title')
+- [STFU MOJANG!!!](https://modrinth.com/mod/shutupmojang 'Title')
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery 'Title')
+- [Decorative Blocks](https://modrinth.com/mod/decorative-blocks 'Title')
+- [Infinity Buttons](https://modrinth.com/mod/infinitybuttons 'Title')
+- [Nyf Spiders](https://modrinth.com/mod/nyfs-spiders 'Title')
+- [CraftPresence](https://modrinth.com/mod/craftpresence 'Title')
+- [Carpeted](https://modrinth.com/mod/carpeted-stairs 'Title')
+- [M.R.U](https://modrinth.com/mod/mru 'Title')
+- [Foggy Border](https://modrinth.com/mod/foggy-border 'Title')
+- [Sound](https://modrinth.com/mod/sound 'Title')
+- [Gravity Changer](https://modrinth.com/mod/gravity-api-fork 'Title')
+- [Amethyst Gravity](https://modrinth.com/mod/amethyst-gravity-reattracted 'Title')
+- [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4 'Title')
+- [Antique Fwaystones](https://modrinth.com/mod/antique-fwaystones 'Title')
+- [Satisfying Buttons](https://modrinth.com/mod/satisfying-buttons 'Title')
+- [Expanded Delight](https://modrinth.com/mod/expanded-delight 'Title')
+- [CTOV Wizards Compat](https://modrinth.com/datapack/ctov-wizards-compat 'Title')
+- [CTOV Paladins & Priests](https://modrinth.com/datapack/ctov-paladins-n-priests-compat 'Title')
+- [Euphoria Patcher](https://modrinth.com/mod/euphoria-patches 'Title')
+- [Enhanced Visuals](https://modrinth.com/mod/enhancedvisuals 'Title')
+- [Smarter Farmers Farmers Replant](https://modrinth.com/mod/smarter-farmers-farmers-replant 'Title')
+- [Chefs Delight](https://modrinth.com/mod/chefs-delight 'Title')
+- [CTOV Chefs Delight Compay](https://modrinth.com/datapack/ctov-chefs-delight-compat 'Title')
+- [Dungeons Arise Seven Seas](https://modrinth.com/mod/when-dungeons-arise-seven-seas 'Title')
+- [Passable Foliage](https://modrinth.com/mod/passable-foliage 'Title')
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer 'Title')
+- [Neruina](https://modrinth.com/mod/neruina 'Title')
+- [Lunar](https://modrinth.com/mod/lunar 'Title')
+- [Grass Overhaul](https://modrinth.com/mod/grass-overhaul 'Title')
+- [Better Advancements](https://modrinth.com/mod/better-advancements 'Title')
+- [Kevs Tieredz Modifiers](https://modrinth.com/mod/kevs-tieredz-modifiers 'Title')
+- [Mythic Charms](https://modrinth.com/mod/mythic-charms 'Title')
+- [Zoomify](https://modrinth.com/mod/zoomify 'Title')
+- [Villager Names](https://modrinth.com/mod/villager-names-serilum 'Title')
+- [Village Spawn Point](https://modrinth.com/mod/village-spawn-point 'Title')
+- [Couplings](https://modrinth.com/mod/couplings 'Title')
+- [Harvest](https://modrinth.com/mod/harvest 'Title')
+- [More Armor Trims](https://modrinth.com/mod/more-armor-trims 'Title')
+- [Elytra trims extensions](https://modrinth.com/mod/elytra-trims-extensions 'Title')
+- [polymorph](https://modrinth.com/mod/polymorph 'Title')
+- [vein-mining](https://modrinth.com/mod/vein-mining 'Title')
+- [heracles](https://modrinth.com/mod/heracles 'Title')
+- [argonauts](https://modrinth.com/mod/argonauts 'Title')
+- [entity-model-features](https://modrinth.com/mod/entity-model-features 'Title')
+- [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api 'Title')
+- [emotecraft](https://modrinth.com/mod/emotecraft 'Title')
+- [botania](https://modrinth.com/mod/botania 'Title')
+- [Impaled](https://github.com/Ladysnake/Impaled/tree/1.20 'Title')
+- [Impaled](https://modrinth.com/mod/torohealth-damage-indicators-updated 'Title')
+- [EMI Trades](https://modrinth.com/mod/emitrades 'Title')
+- [EMI Loot](https://modrinth.com/mod/emi-loot 'Title')
+- [EMI Effect](https://modrinth.com/mod/emiffect 'Title')
+- [EMI Enchanting](https://modrinth.com/mod/emi-enchanting 'Title')
+- [EMI Ores](https://modrinth.com/mod/emi-ores 'Title')
+- [IGAS](https://modrinth.com/mod/in-game-account-switcher/version/8.0.2-fabric1.20 'Title')
+- [Itemswapper](https://modrinth.com/plugin/itemswapper/version/utlGYv3m 'Title')
+- [Cleardespawn](https://modrinth.com/mod/cleardespawn/version/jpRIGRtD 'Title')
+- [Exposure](https://modrinth.com/mod/exposure/version/SIkhFpiB 'Title')
+- [Areas](https://www.curseforge.com/minecraft/mc-mods/areas 'Title')
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue-fabric 'Title')
+- [AddtionZ](https://modrinth.com/mod/additionz 'Title')
+- [Custom Portals](https://modrinth.com/mod/custom-portals 'Title')
+- [SmitherZ](https://modrinth.com/mod/smitherz 'Title')
+- [Fabric Seasons](https://modrinth.com/mod/fabric-seasons 'Title')
+- [Fabric Seasons Delight Compat](https://modrinth.com/mod/fabric-seasons-delight-compat 'Title')
+- [Immersive Melodies](https://modrinth.com/mod/immersive-melodies 'Title')
+- [Lootbeamsfabricupdated](https://modrinth.com/mod/lootbeamsfabricupdated 'Title')
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer 'Title')
+- [Particle Fixer](https://modrinth.com/mod/particle-tweaks 'Title')
+- [Profundis](https://modrinth.com/mod/profundis 'Title')
+- [Sparsestructures](https://modrinth.com/mod/sparsestructures 'Title')
+- [Time Wind](https://modrinth.com/mod/time-wind 'Title')
+- [Tooltipfix](https://modrinth.com/mod/tooltipfix 'Title')
+- [Universal Ores](https://modrinth.com/mod/universal_ores 'Title')
+- [Fabric Seasons Extra](https://modrinth.com/mod/fabric-seasons-extras 'Title')
+- [Amplified Nether](https://modrinth.com/mod/amplified-nether 'Title')
+- [Dungeon Now Loading 1%](https://www.curseforge.com/minecraft/mc-mods/dungeon-now-loading 'Title')
+- [Log Begone](https://modrinth.com/mod/log-begone 'Title')
+- [Philips Ruins](https://modrinth.com/mod/philips-ruins 'Title')
+- [Paxi](https://modrinth.com/mod/paxi 'Title')
+- [Mobs Attempt Parkour](https://modrinth.com/mod/mobs-attempt-parkour 'Title')
+- [MineCells](https://modrinth.com/mod/minecells 'Title')
+- [Fog Looks Good Now](https://modrinth.com/mod/fog-looks-good-now-fabric 'Title')
+- [Stutterfix](https://modrinth.com/mod/stutterfix)
+- [pandas-falling-trees](https://modrinth.com/mod/pandas-falling-trees)
+- [pandalib](https://modrinth.com/mod/diagonal-windows)
+- [diagonal-walls](https://modrinth.com/mod/diagonal-walls)
+- [dashloader](https://modrinth.com/mod/dashloader)
+- [item-obliterator](https://modrinth.com/mod/item-obliterator)
+- [animationoverhaul](https://modrinth.com/mod/animationoverhaul)
+- [tax-free-levels](https://modrinth.com/mod/tax-free-levels)
+- [diagonal-fences](https://modrinth.com/mod/diagonal-fences)
+- [healing-campfire](https://modrinth.com/mod/healing-campfire)
+- [respawnable-pets](https://modrinth.com/mod/respawnable-pets)
+- [xalis-potion](https://modrinth.com/resourcepack/xalis-potion) 
+- Radical soundtrack music by Just A Space Cowboy
+![New Origins](https://cdn.modrinth.com/data/cached_images/93dfa22eda785ee834f3edccf2a3bac20153dfb4.png)
+
+<center></center>
+<center>  
+  This modpack simulates a Radical RPG Adventure gameplay with Multiplayer supported features. Also massively optimized to be playable on most PCs!</center>
+  
+#
+### <center></center>
+### <center>Description</center>
+
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game.  You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. Tame a Dragon and become a Dragon Rider. You could set up and run your own _factory_. You must be careful where you travel, you must keep an eye on your _temperature_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Explore a world dominated by _Dragons_. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
+
+This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraft more challenging and enhance the exploration side of the game. It's also optimized for lower end PCs! This modpack adds tons of new structures and mechanics to give it the RPG feel. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very huge skill tree with multiple paths to choose from. 
+#
+### <center></center>
+### <center>Features</center>
+
+
+- Difficulty - difficulty is scaled, the more you play and the further out you explore, the harder the mobs get.
+- Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
+- Dragons - Tame dragons, become a dragon rider and fly them into battle.
+- Voice Chat - talk to people in game.
+- Skill Tree - extensive skill tree with different paths to choose from.
+- Paths - chose from paths such as Beserker, spellblade, rogue, etc.
+- Day Cycle - days and nights are longer. (48 minutes and 24 minutes)
+- Teams - get friends in your guild and explore the world together.
+- Mobs - find new mobs and pets around the world.
+- Combat - enhanced combat for a more engaging experience.
+- Equipment - backpacks, longswords, and other weapons and items.
+- Temperature - ensure that you watch over your temperature and stay warm during winter.
+- Visual Enhancements - water effects, screen effects, particle effects.
+- Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces. 
+- [Custom Soundtrack](https://modrinth.com/resourcepack/new-origins-soundtrack) - custom music that changes based on the situation.
+- Trade - setup shops and trade with villagers or other people.
+- Build - build incredible structures with the huge selection of new building blocks, including verticle slabs.
+- Create Mod - build incredible technology with create.
+- Structures - explore many structures across the world, structures are spread out
+
+#
+### <center></center>
+### <center>Technical Stuff</center>
+- Required 3 GB of memory. The game will tell you the recommended memory for your system.
+- The modpack is required on server and client.
+- Use [mrpack-install](https://github.com/nothub/mrpack-install#readme) if you want a real server.
+
+#
+### <center></center>
+### <center>Other projects</center>
+
+<center></center>
+<center>  
+
+[![Minecraft Evolved](https://cdn.modrinth.com/data/cached_images/144d4de84556635375e313dcc67ea27c88336ea1.png)](https://modrinth.com/modpack/evolved)
+[![Beta Frontier](https://cdn.modrinth.com/data/cached_images/a25baeafc4b63321e013d5bcba9f766dd2a557b1.png)](https://modrinth.com/modpack/beta-frontier)
+
 #
 ### <center></center>
 ### <center>Credits</center>
