@@ -1,3 +1,69 @@
+# New Origins Unleashed Ver 3.0.0
+![Unleashed](https://cdn.modrinth.com/data/cached_images/5728013a6b8661244574ac2baa11741a4c0bbe46.png)
+
+### Features
+- Complete overhaul of world generation
+- Complete overhaul of nether generation
+- Added rogue, assassin, warrior, berserker, and necromancer/death knight armor
+- Added tons of new special armor for each class
+- Added glaives, battle axes, daggers, and rune swords.
+- A new original soundtrack is added that adapts to the situation dynamically
+- Added the eclipse
+- Added artifacts 
+- Added frog creatures
+- Added Paradise Lost
+- Added the ability to make portals that connect to each other
+- Added respawn obelisks
+- Added different seasons as time passes
+- Bridges occasionally spawn to help cross large rivers
+- Over 50 new structures
+- New building system and blocks
+- New GUI, UI, and HUD design
+
+### Changes
+- Hosting worlds now supports voice chat
+- Friends added now save across instances
+- Graphical enhancements
+- Birds actually fly
+- Dragons spawn less often
+- No longer rains above clouds
+- Many texture changes
+- Changed friends menu
+- Changed enchanting system
+- Changed unique tier to mythic
+- Changed login rewards
+
+### Fixes 
+- Fixed mountains spawning with their peak cut off
+- Fixed server crash
+- Fixed nether crashing game
+- Fixed the mysterious missing texture wolf
+
+![Ice and Fire Update](https://cdn.modrinth.com/data/cached_images/a6191ec35c9938a9c160173e50d7cee273079b56.png)
+
+# Ice and Fire Update Ver 2.3.0
+
+### Features
+- Added rideable dragons
+- Added dynamic music
+
+### Changes
+- Many changes that provide major performance enhancements
+- Optimized modpack files
+- Rolling into mobs now damages the mob
+- Armor sets from immersive armors now tier correctly
+- Newly picked up items now have a indicator
+
+### Removed
+- Removed planes to balance travel
+- Removed some particle effects that caused lag on lower end systems
+
+ ### Fixes
+ - Fixed chunk loading freezing when using world host
+ - Fixed error when going in third person while being short
+ - Fixed right click harvesting not working correctly
+ - Fixed servers not starting
+
 ## Ver. 2.0.8
 
 ### Removed
