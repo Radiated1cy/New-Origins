@@ -54,8 +54,6 @@ This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraf
 <center>  
 
 [![Minecraft Evolved](https://cdn.modrinth.com/data/cached_images/144d4de84556635375e313dcc67ea27c88336ea1.png)](https://modrinth.com/modpack/evolved)
-[![Beta Frontier](https://cdn.modrinth.com/data/cached_images/a25baeafc4b63321e013d5bcba9f766dd2a557b1.png)](https://modrinth.com/modpack/beta-frontier)
-[![Endless Sky Small](https://cdn.modrinth.com/data/cached_images/35cca3b031a2391d70a71e005264ec04d0f09bac_0.webp)](https://modrinth.com/modpack/endlesssky)
 
 #
 ### <center></center>
