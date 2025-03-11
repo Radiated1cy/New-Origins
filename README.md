@@ -8,7 +8,7 @@
 ### <center></center>
 ### <center>Description</center>
 
-New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game.  You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. Tame a Dragon and become a Dragon Rider. You could set up and run your own _factory_. Avoid _blood moons_, many _dangerous creatures_ awaken during blood moons. Explore a world dominated by _Dragons_. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
+New Origins is a modpack that aims to turn Minecraft into an extremely experimental and **Radical RPG** style game.  You can explore _large dungeons_, build _huge cities_, or take on roles like a _wizard_, _knight_, or _archer_. You could even live the sneaky life of a _thief_, stealing from villagers. Tame a Dragon and become a Dragon Rider. You could set up and run your own _factory_. Many _dangerous creatures_ awaken during the night. Explore a world dominated by _Dragons_. Go alone or bring some friends along for the _adventure_. But be careful, _dangerous creatures_ are waiting in the shadows.
 
 This modpack simulates a **Radical RPG** adventure. It attempts to make Minecraft more challenging and enhance the exploration side of the game. It's also optimized for lower end PCs! This modpack adds tons of new structures and mechanics to give it the RPG feel. For bigger servers with many people you can use /guild to create teams. Pressing K opens a very huge skill tree with multiple paths to choose from. 
 #
